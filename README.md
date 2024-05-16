@@ -1,4 +1,4 @@
-# Pawn.com - Online Chess Platform
+# CHESS 24 - Online Chess Platform
 
 ## Introduction
 
